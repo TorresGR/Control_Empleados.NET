@@ -1,0 +1,25 @@
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Control Empleados 2.exe.config
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Control Empleados 2.exe
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Control Empleados 2.pdb
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\FontAwesome.Sharp.dll
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control Empleados 2.csproj.AssemblyReference.cache
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control Empleados 2.csproj.SuggestedBindingRedirects.cache
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control_Empleados_2.Form1.resources
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control_Empleados_2.Properties.Resources.resources
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control Empleados 2.csproj.GenerateResource.cache
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control Empleados 2.csproj.CoreCompileInputs.cache
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control Empleados 2.csproj.CopyComplete
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control Empleados 2.exe
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control Empleados 2.pdb
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control_Empleados_2.Forms.FormAE.resources
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control_Empleados_2.Forms.FormContHorarios.resources
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control_Empleados_2.Forms.FormMensajes.resources
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control_Empleados_2.Forms.FormRepAsist.resources
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\obj\Debug\Control_Empleados_2.Forms.FormAsistenciaCont.resources
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.Face.dll
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Newtonsoft.Json.dll
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+E:\c#\Trabajo practico\Control Empleados 2\Control Empleados 2\bin\Debug\Newtonsoft.Json.xml
